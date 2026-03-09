@@ -50,6 +50,12 @@ I build backend systems, AI-powered tools and algorithmic trading infrastructure
 
 ---
 
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=aviniazov7&color=blue&style=for-the-badge)
+
+---
+
 # 🌍 Connect With Me
 
 🐦 Twitter  
@@ -64,3 +70,9 @@ https://www.linkedin.com/in/avraham-niazov-b9311725a
 ---
 
 ⭐ Building tools at the intersection of **AI, automation and crypto trading**
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/aviniazov7/aviniazov7/output/github-contribution-grid-snake.svg)

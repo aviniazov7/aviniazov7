@@ -40,7 +40,7 @@ I build backend systems, AI-powered tools and algorithmic trading infrastructure
 
 # 📊 GitHub Stats
 
-![Avraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviniazov7&show_icons=true&theme=tokyonight)
+[![Avraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviniazov7&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=aviniazov7&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 

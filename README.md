@@ -4,7 +4,7 @@
 
 I build backend systems, AI-powered tools and algorithmic trading infrastructure.
 
-Focused on building systems at the intersection of **AI, automation and crypto markets**.
+Focused on combining **AI, automation and crypto trading systems**.
 
 ---
 
@@ -18,19 +18,19 @@ Focused on building systems at the intersection of **AI, automation and crypto m
 
 ## 🧠 Interests
 
-- Algorithmic Trading  
-- AI Automation  
-- Backend Systems  
-- Developer Tools  
-- Crypto Infrastructure  
+- Algorithmic Trading
+- AI Automation
+- Backend Systems
+- Developer Tools
+- Crypto Infrastructure
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced AI workflows  
-- Scalable backend architectures  
-- Trading system design  
+- Advanced AI workflows
+- Scalable backend architectures
+- Trading system design
 
 ---
 
@@ -55,18 +55,6 @@ Focused on building systems at the intersection of **AI, automation and crypto m
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aviniazov7&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-## 🧠 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aviniazov7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

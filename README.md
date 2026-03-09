@@ -6,15 +6,15 @@ I build backend systems, AI-powered tools and algorithmic trading infrastructure
 
 ---
 
-# 🚀 Currently Building
+## 🚀 Currently Building
 
-- 🤖 Algorithmic trading systems for crypto markets  
-- ⚡ Backend infrastructure and automation tools  
-- 🧠 AI-powered developer workflows and systems  
+- 🤖 Algorithmic trading systems for crypto markets
+- ⚡ Backend infrastructure and automation tools
+- 🧠 AI-powered developer workflows and systems
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -38,41 +38,17 @@ I build backend systems, AI-powered tools and algorithmic trading infrastructure
 
 ---
 
-# 📊 GitHub Stats
-
-[![Avraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=aviniazov7&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=aviniazov7&show_icons=true&theme=tokyonight&hide_border=true)
-
----
-
-# 🧠 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aviniazov7&layout=compact&theme=tokyonight)
-
----
-
-## 👀 Profile Visitors
-
-![Visitor Count](https://komarev.com/ghpvc/?username=aviniazov7&color=blue&style=for-the-badge)
-
----
-
-# 🌍 Connect With Me
+## 🌍 Connect With Me
 
 🐦 Twitter  
-https://x.com/aviniazov7  
+https://x.com/aviniazov7
 
 💬 Telegram  
-https://t.me/AviNiazov7  
+https://t.me/AviNiazov7
 
 💼 LinkedIn  
-https://www.linkedin.com/in/avraham-niazov-b9311725a  
+https://www.linkedin.com/in/avraham-niazov-b9311725a
 
 ---
 
 ⭐ Building tools at the intersection of **AI, automation and crypto trading**
-
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/aviniazov7/aviniazov7/output/github-contribution-grid-snake.svg)

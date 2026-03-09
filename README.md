@@ -4,13 +4,15 @@
 
 I build backend systems, AI-powered tools and algorithmic trading infrastructure.
 
+Currently focused on combining **AI, automation and crypto trading systems**.
+
 ---
 
-## 🚀 Currently Building
+## 🚀 What I'm Building
 
-- 🤖 Algorithmic trading systems for crypto markets
-- ⚡ Backend infrastructure and automation tools
-- 🧠 AI-powered developer workflows and systems
+- 🤖 Algorithmic trading systems for crypto markets  
+- ⚡ Backend infrastructure and automation tools  
+- 🧠 AI-powered developer workflows and systems  
 
 ---
 

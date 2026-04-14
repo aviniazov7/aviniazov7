@@ -64,7 +64,7 @@ Focused on combining **AI, automation and crypto trading systems**.
 https://x.com/aviniazov7
 
 💬 Telegram  
-https://t.me/AviNiazov7
+https://t.me/aviniazov7
 
 💼 LinkedIn  
 https://www.linkedin.com/in/avraham-niazov-b9311725a

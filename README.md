@@ -80,16 +80,18 @@ class AvrahamNiazov:
 
 </div>
 
----
-
-## 📈 Crypto Trading
 
 ```
-Strategy  : Wyckoff Method + Price Action
-Markets   : BTC, ETH, SOL — MEXC Futures
-Win Rate  : 74%+ (tracked Q1 2025)
-Focus     : Systematic risk management, R:R optimization
-Goal      : $100K portfolio 🎯
+## 📈 Crypto & Markets
+
+<div align="center">
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
+![MEXC](https://img.shields.io/badge/MEXC-2B68D6?style=for-the-badge&logoColor=white)
+
+</div>
 ```
 
 ---

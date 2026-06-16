@@ -92,7 +92,6 @@ class AvrahamNiazov:
 ![MEXC](https://img.shields.io/badge/MEXC-2B68D6?style=for-the-badge&logoColor=white)
 
 </div>
-```
 
 ---
 

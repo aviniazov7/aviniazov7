@@ -80,8 +80,8 @@ class AvrahamNiazov:
 
 </div>
 
+---
 
-```
 ## 📈 Crypto & Markets
 
 <div align="center">
@@ -92,6 +92,13 @@ class AvrahamNiazov:
 ![MEXC](https://img.shields.io/badge/MEXC-2B68D6?style=for-the-badge&logoColor=white)
 
 </div>
+
+```
+📊 Strategy  : Wyckoff Method + Price Action
+🔍 Analysis  : On-chain data, Liquidity & Order Blocks
+⚡ Markets   : Spot & Futures — BTC, ETH, SOL
+🧠 Approach  : Systematic, data-driven, risk-first
+```
 
 ---
 

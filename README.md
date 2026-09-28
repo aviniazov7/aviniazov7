@@ -70,7 +70,7 @@ and ship LLM features behind secure serverless backends.
 
 ## 📈 Outside of Code
 
-I trade crypto systematically (Wyckoff and price action on BTC, ETH, SOL), which is where most of my project ideas come from.
+I'm an active crypto trader, which is where most of my project ideas come from.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=120&section=footer" width="100%"/>

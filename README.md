@@ -26,7 +26,7 @@ and ship LLM features behind secure serverless backends.
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🤖 **TradeOS** *(private, live)* | Crypto trading journal and analytics platform, with 8 LLM-powered features served through a Cloudflare Worker (rate limits, quotas, circuit breaker, XSS-safe output) | React, Firebase, Cloudflare Workers, Groq, Gemini |
+| 🤖 **Crypto Trading Journal** *(private, live)* | Trading journal and analytics platform, with 8 LLM-powered features served through a Cloudflare Worker (rate limits, quotas, circuit breaker, XSS-safe output) | React, Firebase, Cloudflare Workers, Groq, Gemini |
 | 🎁 **[event-gift-tracker](https://github.com/aviniazov7/event-gift-tracker)** | Tracks gifts given and received at events, with Google OAuth, per-user data isolation and stats | Python, React, PostgreSQL, Docker, CI |
 | 🔔 **[notify-server](https://github.com/aviniazov7/notify-server)** | Real-time notification server: REST login issues a token that authenticates a WebSocket, with history, logout and token-redacted logs | FastAPI, WebSockets, Pydantic, Docker, 31 tests |
 | 📰 **[crypto-news-bot](https://github.com/aviniazov7/crypto-news-bot)** | Hebrew crypto market briefings twice a day plus X account tracking, live in Telegram groups | Python, Gemini, Docker, Render |

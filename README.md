@@ -1,4 +1,10 @@
 <div align="center">
+<img src="assets/header.svg" alt="Avraham Niazov — Full Stack Developer, AI and trading systems" width="100%"/>
+<br/>
+<img src="assets/terminal.svg" alt="Terminal: building tools that trade, ship and scale" width="100%"/>
+</div>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00d4ff&height=200&section=header&text=Avraham%20Niazov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%C2%B7%20FastAPI%20%C2%B7%20LLM%20Integration&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
 

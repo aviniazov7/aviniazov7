@@ -130,7 +130,7 @@ Translates Truth Social posts to Hebrew and broadcasts them to subscribers; stat
 
 ## 📈 Outside of Code
 
-I'm an active crypto trader, which is where most of my project ideas come from.
+I'm an active trader, which is where most of my project ideas come from.
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=120&section=footer" width="100%"/>

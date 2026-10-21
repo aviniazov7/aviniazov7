@@ -24,13 +24,73 @@ and ship LLM features behind secure serverless backends.
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| 🤖 **Crypto Trading Journal** *(private, live)* | Trading journal and analytics platform, with 8 LLM-powered features served through a Cloudflare Worker (rate limits, quotas, circuit breaker, XSS-safe output) | React, Firebase, Cloudflare Workers, Groq, Gemini |
-| 🎁 **[event-gift-tracker](https://github.com/aviniazov7/event-gift-tracker)** | Tracks gifts given and received at events, with Google OAuth, per-user data isolation and stats | Python, React, PostgreSQL, Docker, CI |
-| 🔔 **[notify-server](https://github.com/aviniazov7/notify-server)** | Real-time notification server: REST login issues a token that authenticates a WebSocket, with history, logout and token-redacted logs | FastAPI, WebSockets, Pydantic, Docker, 31 tests |
-| 📰 **[crypto-news-bot](https://github.com/aviniazov7/crypto-news-bot)** | Hebrew crypto market briefings twice a day plus X account tracking, live in Telegram groups | Python, Gemini, Docker, Render |
-| 🇺🇸 **[trump-telegram-bot](https://github.com/aviniazov7/trump-telegram-bot)** | Translates Truth Social posts to Hebrew and broadcasts them to subscribers; state kept outside git, PII-safe logs | Python, GitHub Actions, 53 tests |
+<table>
+<tr>
+<td colspan="2" valign="top">
+<h3>🤖 Crypto Trading Journal</h3>
+<em>private, live</em>
+<br><br>
+Trading journal and analytics platform, with 8 LLM-powered features served through a Cloudflare Worker (rate limits, quotas, circuit breaker, XSS-safe output)
+<br><br>
+<strong>Stack:</strong><br>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&amp;logo=firebase&amp;logoColor=black" />
+<img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" />
+<img alt="Groq" src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" />
+<br><br>
+<a href="https://tradeoslive.web.app"><img alt="Live demo" src="https://img.shields.io/badge/Live_demo-0A84FF?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" /></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/aviniazov7/event-gift-tracker">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=event-gift-tracker&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=event-gift-tracker&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
+<img alt="event-gift-tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=event-gift-tracker&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+</picture>
+</a>
+<br><br>
+Tracks gifts given and received at events, with Google OAuth, per-user data isolation and stats<br><br><strong>Stack:</strong> Python, React, PostgreSQL, Docker, CI
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/aviniazov7/notify-server">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=notify-server&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=notify-server&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
+<img alt="notify-server" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=notify-server&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+</picture>
+</a>
+<br><br>
+Real-time notification server: REST login issues a token that authenticates a WebSocket, with history, logout and token-redacted logs<br><br><strong>Stack:</strong> FastAPI, WebSockets, Pydantic, Docker, 31 tests
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/aviniazov7/crypto-news-bot">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
+<img alt="crypto-news-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+</picture>
+</a>
+<br><br>
+Hebrew crypto market briefings twice a day plus X account tracking, live in Telegram groups<br><br><strong>Stack:</strong> Python, Gemini, Docker, Render
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/aviniazov7/trump-telegram-bot">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=trump-telegram-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=trump-telegram-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
+<img alt="trump-telegram-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=trump-telegram-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+</picture>
+</a>
+<br><br>
+Translates Truth Social posts to Hebrew and broadcasts them to subscribers; state kept outside git, PII-safe logs<br><br><strong>Stack:</strong> Python, GitHub Actions, 53 tests
+</td>
+</tr>
+</table>
 
 ---
 

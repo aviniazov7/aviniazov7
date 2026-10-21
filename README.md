@@ -74,15 +74,15 @@ Real-time notification server: REST login issues a token that authenticates a We
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/aviniazov7/crypto-news-bot">
+<a href="https://github.com/aviniazov7/hebrew-finance-news-bot">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
-<img alt="crypto-news-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
+<img alt="hebrew-finance-news-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
 </picture>
 </a>
 <br><br>
-Hebrew crypto market briefings twice a day plus X account tracking, live in Telegram groups<br><br><strong>Stack:</strong> Python, Gemini, Docker, Render
+Translates global financial news (stocks, crypto, rates, commodities, macro) into simple Hebrew with market-impact notes; subscribers join via /start. <a href="https://t.me/FinanceNewsHebBot">@FinanceNewsHebBot</a><br><br><strong>Stack:</strong> TypeScript, Cloudflare Workers + KV, Gemini with Workers AI fallback, CI, 62 tests, 90% coverage
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/aviniazov7/trump-telegram-bot">

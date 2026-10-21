@@ -6,8 +6,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a84ff,100:00d4ff&height=200&section=header&text=Avraham%20Niazov&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Python%20%C2%B7%20FastAPI%20%C2%B7%20LLM%20Integration&descSize=18&descAlignY=60&animation=fadeIn" width="100%"/>
-
 **Backend developer, 2 years in production.** I build Python services and REST/WebSocket APIs with automated tests and CI,
 and ship LLM features behind secure serverless backends.
 
@@ -74,11 +72,11 @@ Real-time notification server: REST login issues a token that authenticates a We
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/aviniazov7/crypto-news-bot">
+<a href="https://github.com/aviniazov7/hebrew-finance-news-bot">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
-<img alt="crypto-news-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=crypto-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
+<img alt="hebrew-finance-news-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
 </picture>
 </a>
 <br><br>
@@ -141,5 +139,5 @@ Translates Truth Social posts to Hebrew and broadcasts them to subscribers; stat
 I'm an active trader, which is where most of my project ideas come from.
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0a84ff,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="assets/footer.svg" alt="Terminal: thanks for visiting" width="100%"/>
 </div>

@@ -123,6 +123,8 @@ Translates Truth Social posts to Hebrew and broadcasts them to subscribers; stat
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![LLM APIs](https://img.shields.io/badge/LLM_APIs-Groq_·_Gemini-8A2BE2?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge)
 
 </div>
 

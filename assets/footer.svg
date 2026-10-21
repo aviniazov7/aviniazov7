@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 108" width="1040" height="108" role="img" aria-labelledby="ftitle fdesc">
+  <title id="ftitle">Thanks for visiting</title>
+  <desc id="fdesc">Animated terminal footer. A prompt types thanks for visiting, followed by a blinking cursor.</desc>
+  <defs>
+    <clipPath id="footerClip">
+      <rect x="1" y="1" width="1038" height="106" rx="16"/>
+    </clipPath>
+    <radialGradient id="footerGlow" cx="16%" cy="72%" r="42%">
+      <stop offset="0%" stop-color="#0a84ff" stop-opacity="0.14"/>
+      <stop offset="72%" stop-color="#0a84ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#footerClip)">
+    <rect width="1040" height="108" fill="#0d1117"/>
+    <rect width="1040" height="108" fill="url(#footerGlow)"/>
+    <rect width="1040" height="46" fill="#161b22"/>
+    <line x1="0" y1="46" x2="1040" y2="46" stroke="#21262d"/>
+    <circle cx="22" cy="23" r="5" fill="#ff5f57"/>
+    <circle cx="40" cy="23" r="5" fill="#febc2e"/>
+    <circle cx="58" cy="23" r="5" fill="#28c840"/>
+    <text x="78" y="28" fill="#c9d1d9" font-family="Inter, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">zsh</text>
+    <text x="1004" y="28" text-anchor="end" fill="#3fb950" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, Menlo, Consolas, monospace" font-size="13" font-weight="600">exit 0</text>
+    <text x="28" y="85" fill="#00d4ff" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, Menlo, Consolas, monospace" font-size="22">&gt;</text>
+    <text x="58" y="85" fill="#e6edf3" font-family="'JetBrains Mono', 'Cascadia Mono', ui-monospace, Menlo, Consolas, monospace" font-size="22" textLength="251" lengthAdjust="spacingAndGlyphs"><tspan opacity="1">t<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0126;0.86;0.91;1"/></tspan><tspan opacity="1">h<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0253;0.86;0.91;1"/></tspan><tspan opacity="1">a<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0379;0.86;0.91;1"/></tspan><tspan opacity="1">n<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0505;0.86;0.91;1"/></tspan><tspan opacity="1">k<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0632;0.86;0.91;1"/></tspan><tspan opacity="1">s<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0758;0.86;0.91;1"/></tspan><tspan opacity="1"> <animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.0884;0.86;0.91;1"/></tspan><tspan opacity="1">f<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1011;0.86;0.91;1"/></tspan><tspan opacity="1">o<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1137;0.86;0.91;1"/></tspan><tspan opacity="1">r<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1263;0.86;0.91;1"/></tspan><tspan opacity="1"> <animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1389;0.86;0.91;1"/></tspan><tspan opacity="1">v<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1516;0.86;0.91;1"/></tspan><tspan opacity="1">i<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1642;0.86;0.91;1"/></tspan><tspan opacity="1">s<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1768;0.86;0.91;1"/></tspan><tspan opacity="1">i<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.1895;0.86;0.91;1"/></tspan><tspan opacity="1">t<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.2021;0.86;0.91;1"/></tspan><tspan opacity="1">i<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.2147;0.86;0.91;1"/></tspan><tspan opacity="1">n<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.2274;0.86;0.91;1"/></tspan><tspan opacity="1">g<animate attributeName="opacity" dur="7s" repeatCount="indefinite" calcMode="discrete" values="0;1;1;0;0" keyTimes="0;0.2400;0.86;0.91;1"/></tspan></text>
+    <rect x="309" y="64" width="11" height="24" rx="1.5" fill="#00d4ff">
+      <animate attributeName="x" dur="7s" repeatCount="indefinite" calcMode="linear" values="58;309;309;58;58" keyTimes="0;0.24;0.86;0.91;1"/>
+      <animate attributeName="opacity" dur="1.05s" repeatCount="indefinite" values="1;1;0;0" keyTimes="0;0.48;0.5;1"/>
+    </rect>
+  </g>
+  <rect x="1" y="1" width="1038" height="106" rx="16" fill="none" stroke="#30363d" stroke-width="1.5"/>
+</svg>

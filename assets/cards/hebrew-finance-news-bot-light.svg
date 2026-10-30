@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120" role="img" aria-label="hebrew-finance-news-bot">
+<style>.h{font:600 18px 'Segoe UI',Ubuntu,Sans-Serif;fill:#0969da}.d{font:400 13px 'Segoe UI',Ubuntu,Sans-Serif;fill:#24292f}.l{font:400 12px 'Segoe UI',Ubuntu,Sans-Serif;fill:#24292f}</style>
+<rect x="0.5" y="0.5" rx="4.5" width="399" height="119" fill="#ffffff" stroke="#d0d7de"/>
+<path transform="translate(25,22)" fill="#0969da" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8z"/>
+<text x="45" y="35" class="h">hebrew-finance-news-bot</text><text x="25" y="65" class="d">Global financial &amp; crypto news translated into simple Hebrew</text><text x="25" y="83" class="d">on Telegram, with market impact and term explanations. Buil...</text>
+<circle cx="30" cy="101" r="6" fill="#3178c6"/><text x="42" y="105" class="l">TypeScript</text></svg>

@@ -50,9 +50,9 @@ Trading journal and analytics platform, with 8 LLM-powered features served throu
 <td width="50%" valign="top">
 <a href="https://github.com/aviniazov7/event-gift-tracker">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=event-gift-tracker&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=event-gift-tracker&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
-<img alt="event-gift-tracker" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=event-gift-tracker&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/event-gift-tracker-dark.svg" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="assets/cards/event-gift-tracker-light.svg" />
+<img alt="event-gift-tracker" src="assets/cards/event-gift-tracker-light.svg" width="100%" />
 </picture>
 </a>
 <br><br>
@@ -61,9 +61,9 @@ Tracks gifts given and received at events, with Google OAuth, per-user data isol
 <td width="50%" valign="top">
 <a href="https://github.com/aviniazov7/notify-server">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=notify-server&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=notify-server&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
-<img alt="notify-server" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=notify-server&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/notify-server-dark.svg" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="assets/cards/notify-server-light.svg" />
+<img alt="notify-server" src="assets/cards/notify-server-light.svg" width="100%" />
 </picture>
 </a>
 <br><br>
@@ -74,9 +74,9 @@ Real-time notification server: REST login issues a token that authenticates a We
 <td width="50%" valign="top">
 <a href="https://github.com/aviniazov7/hebrew-finance-news-bot">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
-<img alt="hebrew-finance-news-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=hebrew-finance-news-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/hebrew-finance-news-bot-dark.svg" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="assets/cards/hebrew-finance-news-bot-light.svg" />
+<img alt="hebrew-finance-news-bot" src="assets/cards/hebrew-finance-news-bot-light.svg" width="100%" />
 </picture>
 </a>
 <br><br>
@@ -85,9 +85,9 @@ Translates global financial news (stocks, crypto, rates, commodities, macro) int
 <td width="50%" valign="top">
 <a href="https://github.com/aviniazov7/trump-telegram-bot">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=trump-telegram-bot&amp;description_lines_count=2&amp;bg_color=0d1117&amp;border_color=30363d&amp;title_color=00d4ff&amp;icon_color=0a84ff&amp;text_color=c9d1d9" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=trump-telegram-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" />
-<img alt="trump-telegram-bot" src="https://github-readme-stats.vercel.app/api/pin/?username=aviniazov7&amp;repo=trump-telegram-bot&amp;description_lines_count=2&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=0969da&amp;icon_color=0969da&amp;text_color=24292f" width="100%" />
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/trump-telegram-bot-dark.svg" />
+<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="assets/cards/trump-telegram-bot-light.svg" />
+<img alt="trump-telegram-bot" src="assets/cards/trump-telegram-bot-light.svg" width="100%" />
 </picture>
 </a>
 <br><br>
